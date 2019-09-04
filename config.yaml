@@ -1,9 +1,9 @@
-baseurl: "https://yihui.name/"
+baseurl: "https://easyself.github.io/yihui/"
+relativeURLs: true
+canonifyURLs: true
 languageCode: "en-us"
 title: "Yihui Xie | 谢益辉"
 theme: "hugo-ivy"
-googleAnalytics: "UA-1988641-2"
-disqusShortname: "yihui"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
